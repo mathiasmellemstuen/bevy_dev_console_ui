@@ -1,0 +1,9 @@
+[package]
+name = "bevy_dev_console_ui"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mathias Mellemstuen <mathias.mellemstuen@gmail.com>"]
+
+[dependencies]
+bevy="0.13"
+bevy_egui = "0.27.0"
